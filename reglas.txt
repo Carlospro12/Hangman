@@ -1,0 +1,7 @@
+- El jugador puede: Pedir una letra / Adivinar la palabra: 
+-- Si la letra está, entonces se anotara sobre la línea que ocupa su lugar en la palabra secreta.
+-- Si la letra no está, entonces el muñeco pierde una vida. 
+- Muñeco: El muñeco stiene 7 vidas, por lo que el jugador tiene 6 posibilidades de fallar.
+- Adivinar la Palabra: El jugador puede intentar adivinar la palabra o frase secreta:
+-- Si acierta la palabra, entonces se completa la solución y se mostrara en pantalla.
+-- Si no acierta la palabra, entonces el muñeco pierde dos vida.
